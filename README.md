@@ -15,7 +15,7 @@ There will also be comments that describe the event.
 
 ## Results
 
-The dynamic table that we created allows users to filter the UFO sightings using the above criteria. Users can start off by simply scrolling through all the data or start to fill-in the search criterion provided. The filter allows users to tailor the search to their needs. 
+The dynamic table that we created allows users to filter the UFO sightings using the above criteria. Users can start off by simply scrolling through all the data or start to fill-in the search criterion provided. The filter allows users to tailor the search to their needs. The webpage can be found by clicking here: [UFO Sightings](https://panther1976.github.io/UFOs/) 
 
 ## Summary
 
